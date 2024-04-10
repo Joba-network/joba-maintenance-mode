@@ -1,0 +1,11 @@
+{
+  "name": "joba-maintenance-mode",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/Joba-network/joba-maintenance-mode.git",
+  "author": "Sayer Tindall <73977638+sayerrrr@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "http-server -p 8080"
+  }
+}
